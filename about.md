@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am currently a Research Engineer at [Evolution Devices Inc.](https://www.evolutiondevices.com/) Working on cutting-edge SOTA computer vision techniques to help patients with lower limb disabilities walk better. 
+I'm currently a Senior Data Engineer at [Meta Platforms Inc.](https://www.meta.com) in the AI infrastructure team.
+
+Previously: Research Engineer at [Evolution Devices Inc.](https://www.evolutiondevices.com/) Working on cutting-edge SOTA computer vision techniques to help patients with lower limb disabilities walk better. 
 
 I recently authored a book on Dask, the Python-native distributed data engineering and computing library. For more, go to [Oreilly](https://www.oreilly.com/library/view/scaling-python-with/9781098119867/) 
 
